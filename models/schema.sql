@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS uramazon_db;
+CREATE DATABASE uramazon_db;
+
+DROP DATABASE IF EXISTS testdb;
+CREATE DATABASE testdb;
