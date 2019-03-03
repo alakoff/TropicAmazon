@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "root",
-    "database": "uramazon_db",
+    "database": "uramazon",
     "host": "localhost",
     "dialect": "mysql"
   },
